@@ -1,6 +1,6 @@
 package com.financialdata.data;
 
-import com.financialdata.API;
+import com.financialdata.data.api.API;
 
 public class StockPrice implements AlphaVantage{
 

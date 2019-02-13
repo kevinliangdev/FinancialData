@@ -1,4 +1,4 @@
-package com.financialdata;
+package com.financialdata.data.api;
 
 public class API {
 
